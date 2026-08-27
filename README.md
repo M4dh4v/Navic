@@ -33,7 +33,7 @@ A modern Navidrome client for Android and iOS.
 
 You can help translate Navic by contributing on [Weblate](https://hosted.weblate.org/engage/navic/).
 
-![Weblate translation status](https://hosted.weblate.org/widget/navic/navic/horizontal-auto.svg)
+![Weblate translation status](https://hosted.weblate.org/widget/navic/navic/matrix-auto.svg)
 
 ## Star History
 
