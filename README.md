@@ -1,6 +1,6 @@
 <div align="center">
 
-# Navic
+<img title="Navic" alt="Navic" height="140" src="https://raw.githubusercontent.com/NavicApp/Branding/refs/heads/main/assets/wordmark.png">
 
 A modern Navidrome client for Android and iOS.
 
